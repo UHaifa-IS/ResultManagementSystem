@@ -1,0 +1,35 @@
+body{
+  background-color: #F1F1F1
+}
+
+h1{
+  font-family: 'Raleway',sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+.contact-form{
+  max-width:450px;
+  margin:20px auto
+}
+.contact-form .form_group{
+  margin-bottom: :0;
+  position: :relative
+}
+
+.contact-form input,
+.contact-form textarea{
+  margin-bottom:5px
+}
+.contact-form textarea{
+  height: 180px !important
+}
+
+.contact-form .asterisx{
+  float: right;
+  height: 0;
+  font-size: 22px;
+  color: #da4f4f;
+  position: relative;
+  right: 9px;
+ top:-30px;
+}
